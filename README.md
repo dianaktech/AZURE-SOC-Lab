@@ -1,5 +1,5 @@
 
-<h1>🛡️ AZURE-SOC-Lab</h1>
+<h1>🔍 AZURE-SOC-Lab</h1>
 
 
 <h2>Description</h2>
